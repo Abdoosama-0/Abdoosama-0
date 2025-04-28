@@ -16,7 +16,7 @@ Specializing in Full Stack Development using Next.js , Node.js and express, with
 
 - 🔍 last projects:
    <a href="https://movie-lovers-site-cvmd.vercel.app/">
-   
+   🎬 Movie Lovers
   </a>
 
 
