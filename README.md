@@ -14,10 +14,10 @@
 Computer Science student at AOU, with a solid foundation in core programming concepts gained through academic coursework in areas such as programming fundamentals, object-oriented design, algorithms, data structures, computer architecture, operating systems, and databases. 
 Specializing in Full Stack Development using Next.js , Node.js and express, with a strong focus on building scalable and efficient applications.
 
-- 🔍 last projects:
+- 🔍 last projects:<br>
    <a href="https://movie-lovers-site-cvmd.vercel.app/">
    🎬 Movie Lovers
-  </a>
+  </a><br>
      <a href="https://calm-imagination-production.up.railway.app/">
    🎬 E-comm
   </a>
