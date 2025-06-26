@@ -4,9 +4,10 @@
   <a href="https://www.linkedin.com/in/abdelrhman-osama-mostafa-shawky-15417a344/">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://instagram.com/[اسم_مستخدمك]](https://www.instagram.com/abdo_osama226/)">
+    <a href="https://www.instagram.com/abdo_osama226">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
 </p>
 
 ---
