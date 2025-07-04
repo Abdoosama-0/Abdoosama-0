@@ -21,7 +21,7 @@ Specializing in Full Stack Development using Next.js , Node.js and express, with
   </a><br>
      <a href="https://ecommerce-platform-sage.vercel.app/">
  🛒E-comm
-  </a>
+  </a><br>
   <a href="https://www.postman.com/goatme/socialnet-api/overview">
       🌐 Social Media API
   </a>
